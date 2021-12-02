@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SamplePlayerApplication/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/discovery learning/SamplePlayerApplication/app/src/main/res/drawable/focus_border.xml" value="0.1" />
+        <entry key="..\:/discovery learning/SamplePlayerApplication/app/src/main/res/drawable/ic_forward.xml" value="0.1" />
+        <entry key="..\:/discovery learning/SamplePlayerApplication/app/src/main/res/drawable/ic_pause.xml" value="0.1" />
+        <entry key="..\:/discovery learning/SamplePlayerApplication/app/src/main/res/drawable/ic_play_arrow.xml" value="0.1" />
+        <entry key="..\:/discovery learning/SamplePlayerApplication/app/src/main/res/drawable/ic_replay.xml" value="0.1" />
+        <entry key="..\:/discovery learning/SamplePlayerApplication/app/src/main/res/drawable/unfocus_border.xml" value="0.1" />
+        <entry key="..\:/discovery learning/SamplePlayerApplication/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/discovery learning/SamplePlayerApplication/app/src/main/res/layout/player_controller.xml" value="0.22472783825816486" />
+        <entry key="..\:/discovery learning/SamplePlayerApplication/app/src/main/res/layout/track_selector.xml" value="0.146875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
